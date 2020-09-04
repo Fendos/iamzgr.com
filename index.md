@@ -29,3 +29,18 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
 ------ END LICENSE ------
 ```
+
+## Riseup Mail Invite Code	
+
+| Invite Code  | Expires  |
+| ------------ | ------------ |
+| ej4n-m5bs | 2020-11-03 |
+| fw2m-09qk | 2020-11-03 |
+| 9749-v8er | 2020-11-03 |
+| iegs-48hr | 2020-11-03 |
+| v7hf-7tg2 | 2020-11-03 |
+| 86ds-24ez | 2020-11-03 |
+| fnwt-z8pw | 2020-11-03 |
+| 4zav-fvst | 2020-11-03 |
+| d7mw-pn0n | 2020-11-03 |
+| 5urs-jugi | 2020-11-03 |
