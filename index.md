@@ -44,3 +44,7 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 | 4zav-fvst | 2020-11-03 |
 | d7mw-pn0n | 2020-11-03 |
 | 5urs-jugi | 2020-11-03 |
+
+## Kitsuneib 
+ https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi.conf
+ https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi-android.conf
