@@ -111,6 +111,7 @@ Sc9Trub9
 ```
 ***
 ## Kitsuneib 
-
+```
  `https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi.conf`
  `https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi-android.conf`
+ ```
