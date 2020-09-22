@@ -39,4 +39,4 @@ kq2VUcUyRYK9atCy
  https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi.conf
  https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi-android.conf
  ```
-https://1drv.ms/u/s!AkdXT7IVa68sga4dPz2iwKnOxbGrlA?e=UZT7Kd
+[Clash For Windows](https://1drv.ms/u/s!AkdXT7IVa68sga4dPz2iwKnOxbGrlA?e=UZT7Kd)
