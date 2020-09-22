@@ -39,5 +39,4 @@ kq2VUcUyRYK9atCy
  https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi.conf
  https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi-android.conf
  ```
- 
- <iframe src="https://onedrive.live.com/embed?cid=2CAF6B15B24F5747&resid=2CAF6B15B24F5747%2122301&authkey=AD23o-x2_Qy9ewU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+https://1drv.ms/u/s!AkdXT7IVa68sga4dPz2iwKnOxbGrlA?e=UZT7Kd
