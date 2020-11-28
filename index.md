@@ -39,5 +39,5 @@ kq2VUcUyRYK9atCy
  https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi.conf
  https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi-android.conf
  ```
-[Clash For Windows](https://1drv.ms/u/s!AkdXT7IVa68sga4dPz2iwKnOxbGrlA?e=UZT7Kd)
-[Clash For Windows](https://cloud.189.cn/t/bmqYzqMN3mQ3（访问码：6qss）)
+[Firefox](https://cloud.189.cn/t/viq6NruUZZF3（访问码：ik1y )
+[Clash For Windows](https://cloud.189.cn/t/7RjA3eUfA7Bn（访问码：8zmb )
