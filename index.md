@@ -69,10 +69,3 @@ CtCEcZZvstsY48kGIBe4OJxP
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 ***
-## Kitsuneib 
-```
- https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi.conf
- https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/Kitsunebi-android.conf
- ```
-[Firefox](https://cloud.189.cn/t/viq6NruUZZF3（访问码：ik1y ))
-[Clash For Windows](https://cloud.189.cn/t/7RjA3eUfA7Bn（访问码：8zmb ))
