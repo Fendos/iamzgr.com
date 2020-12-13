@@ -19,17 +19,6 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 ### My Email Public GPG
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: 用户编号:	<vgr@mime.email>
-Comment: 又名:	<vgr@2048.email>
-Comment: 又名:	<vgr@paranoid.is>
-Comment: 又名:	<vgr@4096.email>
-Comment: 又名:	FenX <vgr@paranoid.email>
-Comment: 连接时间:	2020/12/5 8:56
-Comment: 文件系统:	521 位 ECDSA(绝密密钥可用)
-Comment: 用途:	签名, 仅加密, 正在认证的用户编号, SSH 认证
-Comment: 指纹:	F47DC41FE57905CE2D3BFF0C3D71E129239479F0
-
-
 mJMEX8rapBMFK4EEACMEIwQBA637mNX2oVReVtEqIV7Omn6TydVM4UUXgrmCYfLd
 m7usCZ5Pkc9i2GVQCqr31o0troBB3TU5+o6cqlrm9H/pMvkADgTcGxXFXOd6hEjy
 fxFqMwi+gfcSi2omXN66lAYVR3L9sRQ+4t4pNQIkP+PcgxHuyaC0ydnJgzrOwvun
