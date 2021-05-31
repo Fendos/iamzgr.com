@@ -3,7 +3,7 @@
 
 [DuckDuckGo](https://start.duckduckgo.com)
 
-[StartPageage](https://startpage.com/)
+[StartPage](https://startpage.com/)
 
 [Ecosia](https://www.ecosia.org/)
 
