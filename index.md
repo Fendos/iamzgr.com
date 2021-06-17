@@ -11,6 +11,7 @@
 ## 联系方式：
 ### email
 ### root@paranoid.email
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -51,5 +52,4 @@ AdbCi6dWclttaZmkIctfjO2SBi7vH7ZSc2ygtQEcpIJ5rkcANrK/VV67MS27/OR8
 8QtDunkC+dOdOMlcK2Uk06HP
 =ZWgF
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
