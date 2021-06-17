@@ -11,7 +11,7 @@
 ## 联系方式：
 ### email
 ### root@paranoid.email
-
+### my email openpgp key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
