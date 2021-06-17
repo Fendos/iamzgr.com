@@ -9,8 +9,10 @@
 
 [Bing](https://cn.bing.com/?ensearch=1&FORM=BEHPTB)
 ## 联系方式：
-### Telegram
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+### email
+### root@paranoid.email
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mJMEX1rQgBMFK4EEACMEIwQBkEAyzvTj4txLcM6tdcPb6fxZWhGuiGcGs4t3qwVK
 dI4jpzhWEai2Gbu9BGOMi4wmU/+4aruA2seu49r+1w/ZKooAxvRnfBXaSea92miC
@@ -48,4 +50,6 @@ INXXP2/5Sbw08p3wgfWSPFEpi79q0F4TJue3QVgZg+XtcRqqtFFVowPg0ElkfwIJ
 AdbCi6dWclttaZmkIctfjO2SBi7vH7ZSc2ygtQEcpIJ5rkcANrK/VV67MS27/OR8
 8QtDunkC+dOdOMlcK2Uk06HP
 =ZWgF
------END PGP PUBLIC KEY BLOCK-----```
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
